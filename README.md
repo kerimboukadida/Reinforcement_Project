@@ -5,7 +5,7 @@ we will be designing a custom environment that will involve flying a Chopper (or
 Dependencies/Imports
 We first begin with installing some important dependencies.
 
-!pip install opencv-python 
+!pip install opencv-python
 
 !pip install pillow
 
