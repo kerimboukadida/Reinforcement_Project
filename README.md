@@ -25,3 +25,10 @@ In this task we have to balance a rod on top of a cart. Number of action spaces 
 # About
 A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force of 0 or 1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over.
 
+# Hyperparameters:
+- Gamma= 0.95
+- LEARNING_RATE=LR=0.001
+- Epsilon=1
+- Epsilon_decay=0.995
+- Epsilon_min=0.01
+- BATCH_SIZE=64
