@@ -11,7 +11,7 @@
 - Achref Souibgui 
 
 # Project : Mountain-Car
-<img src=mountain-car/mountain_car.gif width="400">
+<img src=mountain_car.gif width="400">
 
 In this task we have to teach the car to reach at the goal position which is at the top of mountain. Number of action spaces is 3. Action space is descrete in this environment.
 - **`0`** - move car to left
