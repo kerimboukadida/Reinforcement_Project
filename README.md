@@ -17,7 +17,11 @@ In this task we have to balance a rod on top of a cart. Number of action spaces 
 - **`0`** - move cart to the left
 - **`1`** - move cart to the right
 
-we used DQN for our q learning algorithm 
+**we used :**
+-DQN for our q learning algorithm 
+-MSE loss function
+-Adam optimizer
 
 # About
 A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force of 0 or 1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over.
+
