@@ -17,4 +17,5 @@ In this task we have to teach the car to reach at the goal position which is at 
 - **`0`** - move car to left
 - **`1`** - do nothing
 - **`2`** - move car to right
+
 we used DQN for our q learning algorithm 
