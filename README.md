@@ -10,12 +10,11 @@
 - Abdelkerim Boukadida 
 - Achref Souibgui 
 
-# Project : Mountain-Car
-<img src=mountain_car.gif width="400">
+# Project : Car-Pole
+<img src=cart_pole.gif width="400">
 
-In this task we have to teach the car to reach at the goal position which is at the top of mountain. Number of action spaces is 3. Action space is descrete in this environment.
-- **`0`** - move car to left
-- **`1`** - do nothing
-- **`2`** - move car to right
+In this task we have to balance a rod on top of a cart. Number of action spaces is 2. Action space is discrete here.
+- **`0`** - move cart to the left
+- **`1`** - move cart to the right
 
 we used DQN for our q learning algorithm 
